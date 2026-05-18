@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-class Personnage
+class Test
 {
     delegate void DelegateType(string text);
     delegate void DelegateType2(string text);
