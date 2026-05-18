@@ -1,6 +1,6 @@
 using System;
 
-class Chevalier
+class ProgTest
 {
     static void Main()
     {
