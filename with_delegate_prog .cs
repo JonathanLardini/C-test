@@ -4,7 +4,7 @@ class ProgTest
 {
     static void Main()
     {
-        Personnage p = new Personnage();
+        Test p = new Test();
         p.AfficherText();
     }
 }
