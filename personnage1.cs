@@ -1,6 +1,6 @@
 using System;
 
-class Chevalier
+class Program Test
 {
     static void Main()
     {
